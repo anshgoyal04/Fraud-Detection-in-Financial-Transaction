@@ -6,7 +6,7 @@ This project aims to build an efficient fraud detection system for financial tra
 **Programming Language: Python** <br>
 Libraries:
 Scikit-learn: For Isolation Forest, LOF, and evaluation metrics.<br>
-TensorFlow/PyTorch: For building autoencoders.
-Pandas: For data manipulation.
-Matplotlib/Seaborn: For data visualization.
-Imbalanced-learn: For handling imbalanced data using techniques like SMOTE.
+TensorFlow/PyTorch: For building autoencoders.<br>
+**Pandas: For data manipulation.** <br>
+**Matplotlib/Seaborn: For data visualization.** <br>
+*Imbalanced-learn: For handling imbalanced data using techniques like SMOTE.*
